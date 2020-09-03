@@ -1,0 +1,27 @@
+{
+  "name": "weatherdisplay",
+  "version": "1.0.0",
+  "description": "Display weather and other useful information using a display connected to a raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayhoon/Weather-Display-Raspberry-Pi.git"
+  },
+  "keywords": [
+    "Raspberry",
+    "pi"
+  ],
+  "author": "Max Hoffmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayhoon/Weather-Display-Raspberry-Pi/issues"
+  },
+  "homepage": "https://github.com/Mayhoon/Weather-Display-Raspberry-Pi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
+  }
+}
